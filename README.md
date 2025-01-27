@@ -1,9 +1,9 @@
 # Jogo do número secreto
 
-##Sobre
-###Projeto utilizado nos cursos de lógica de programação da Alura.
+## Sobre
+### Projeto utilizado nos cursos de lógica de programação da Alura.
 
-##Tecnologia
+## Tecnologia
 
-##Aluno: João Ricardo L Souza.
+## Aluno: João Ricardo L Souza.
 
